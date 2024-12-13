@@ -7,12 +7,12 @@ The objetive of this project is to solve these problems:
 - The venv with all the TTS libraries could take more than 7GB
 
 <div align='center'>
-## **If you have any of these problems (like me) that could be your solution**
+## If you have any of these problems (like me) that could be your solution
 </div>
 ______________________________________________________________________
 
 <div align='center'>
-## **Structure**
+## Structure
 </div>
 
 The project is a venv with the python 3.13v which has:
@@ -23,7 +23,7 @@ The project is a venv with the python 3.13v which has:
 ______________________________________________________________________
 
 <div align='center'>
-## **How it works**
+## How it works
 </div>
 
 The client script uses 
