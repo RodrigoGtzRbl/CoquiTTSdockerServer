@@ -21,12 +21,11 @@ The project is a venv with the python 3.13v which has:
 - *shared* dir, this file is shared with the docker container making easy the audio connection between client and server
 
 ______________________________________________________________________
-
-<div align='center'>
 ## How it works
-</div>
+
 
 The client script uses 
+<div align='center'>
 - *os* library to create the paths
 ```python	
 	rootPath = os.getcwd()
@@ -62,7 +61,7 @@ The client script uses
    	     print('Trying in 5s...')
     	    time.sleep(5)
 ```
-
+</div>
 ______________________________________________________________________
 
 By the moment only spanish voice is set in server script, that could be easily changed starting the docker container and use the command:
