@@ -1,7 +1,6 @@
 # **Local TTS using docker**
 
-Here you can use [Coqui TTS](https://github.com/coqui-ai/TTS) in docker.
-The objetive of this project is to solve these problems:
+Here you can use [Coqui TTS](https://github.com/coqui-ai/TTS) in docker with the objetive of solving these problems:
 - The instance of TTS could take more than 6s
 - Sintetizing more than 1 time is required for achieve the proyect objective
 - The venv with all the TTS libraries could take more than 7GB
