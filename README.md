@@ -7,8 +7,9 @@ The objetive of this project is to solve these problems:
 - The venv with all the TTS libraries could take more than 7GB
 
 
-## If you have any of these problems (like me) that could be your solution
-
+<div align = "center">
+If you have any of these problems (like me) that could be your solution
+</div>
 
 ## Structure
 
